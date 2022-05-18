@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcel Location Display</string>
+    <string name="title_activity_maps">Parcel Location Display</string>
+    <string name="find_user_s_location">Find Parcel Location</string>
+</resources>
